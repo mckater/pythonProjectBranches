@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Students')
     print_hi('All')
+    print_hi('Yandex')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
